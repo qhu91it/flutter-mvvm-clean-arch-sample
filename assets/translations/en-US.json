@@ -1,0 +1,36 @@
+{
+    "counter_page": {
+        "title": "Counter Page",
+        "noti": "You have pushed the buttons many times:",
+        "increment": "Increment {}"
+    },
+    "home_page": {
+        "title": "Home Page",
+        "change_language": "Change language",
+        "define_env_variables": "You define ENV variables like",
+        "define_env_app_name": "APP NAME {}",
+        "define_env_app_suffix": "APP SUFFIX {}",
+        "go_to_page": "Go to {} page",
+        "print_log": "Print log"
+    },
+    "posts_page": {
+        "title": "Posts Page",
+        "title_placeholder": "Posts title here",
+        "body_placeholder": "Posts body here",
+        "no_posts": "No posts",
+        "no_posts_sub": "No posts available yet"
+    },
+    "todo_page": {
+        "title": "Todo Page",
+        "todo_placeholder": "What needs to be done?",
+        "items_left": "{} items left",
+        "all_todos": "All todos",
+        "all": "All",
+        "uncompleted_todos": "Only uncompleted todos",
+        "active": "Active",
+        "completed_todos": "Only completed todos",
+        "completed": "Completed",
+        "no_items": "No items",
+        "no_items_sub": "No items available yet"
+    }
+}

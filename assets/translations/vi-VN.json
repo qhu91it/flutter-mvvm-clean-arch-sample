@@ -1,0 +1,36 @@
+{
+    "counter_page": {
+        "title": "Trang Counter",
+        "noti": "Bạn đã nhấn các nút lần thứ:",
+        "increment": "Tăng {}"
+    },
+    "home_page": {
+        "title": "Trang Chủ",
+        "change_language": "Thay đổi ngôn ngữ",
+        "define_env_variables": "Bạn xác định các biến ENV như",
+        "define_env_app_name": "APP NAME {}",
+        "define_env_app_suffix": "APP SUFFIX {}",
+        "go_to_page": "Đi tới trang {}",
+        "print_log": "In log"
+    },
+    "posts_page": {
+        "title": "Trang Posts",
+        "title_placeholder": "Đăng tiêu đề tại đây",
+        "body_placeholder": "Đăng nội dung ở đây",
+        "no_posts": "Không có bài đăng nào",
+        "no_posts_sub": "Chưa có bài viết nào"
+    },
+    "todo_page": {
+        "title": "Trang Todo",
+        "todo_placeholder": "Những gì cần phải được thực hiện?",
+        "items_left": "{} mục còn lại",
+        "all_todos": "Tất cả todos",
+        "all": "Tất cả",
+        "uncompleted_todos": "Chỉ những todo chưa hoàn thành",
+        "active": "Còn",
+        "completed_todos": "Chỉ những todo hoàn thành",
+        "completed": "Xong",
+        "no_items": "Không có mục",
+        "no_items_sub": "Chưa có mục nào"
+    }
+}

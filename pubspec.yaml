@@ -1,0 +1,45 @@
+name: mvvm_template
+description: A MVVM + clean arch template Flutter project with RiverPod and more.
+publish_to: none
+version: 1.0.0+1
+environment:
+  sdk: '>=2.18.0 <3.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.5
+  flutter_riverpod: ^1.0.4
+  flutter_screenutil: ^5.5.4
+  loader_overlay: ^2.0.10
+  fluttertoast: ^8.0.9
+  easy_localization: ^3.0.1
+  path_provider: ^2.0.11
+  objectbox: ^1.6.2
+  objectbox_flutter_libs: any
+  http: ^0.13.5
+  equatable: ^2.0.5
+  empty_widget: ^0.0.5
+  shimmer: ^2.0.0
+  device_preview: ^1.1.0
+  r_dart_library:
+    git:
+      url: 'https://github.com/YK-Unit/r_dart_library.git'
+      ref: 0.4.1
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.1
+  build_runner: ^2.2.1
+  objectbox_generator: any
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/images/english.png
+  - assets/images/vietnam.png
+  - assets/translations/
+flr:
+  core_version: 3.2.0
+  dartfmt_line_length: 80
+  assets:
+  - assets/images
+  fonts: []
